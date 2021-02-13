@@ -1,0 +1,12 @@
+#myCarousel{
+    height: 90vh;
+}
+
+.carousel-item img{
+    height: 90vh;
+}
+
+.fill {
+    object-fit: fill;
+}
+
